@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79652027366",
+    "project_id": "tcbt-dacp",
+    "storage_bucket": "tcbt-dacp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79652027366:android:240541ed4bd592bba67427",
+        "android_client_info": {
+          "package_name": "com.example.ftest1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79652027366-l8rsgp28u6v5bncvr6424d9deeit56n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2SRaLiNGWE0DEnSgJYl6D-Tn0LaxwkNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79652027366-l8rsgp28u6v5bncvr6424d9deeit56n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
